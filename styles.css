@@ -4,10 +4,11 @@
     box-sizing: border-box;
 }
 .header-container{
+    display: flexbox;
     background-color: black;
     color: white;
     margin: 20px;
-    padding: 50px 10px;
+    padding: 50px 10px; 
     text-align: center;
     font-size: larger;
 }
@@ -15,4 +16,25 @@
     width: 60px;
     padding-left: 10px;
     float: left;
+}
+.main-container{
+    display: flex;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: black;
+    height: 1000px;
+    flex-direction: row;
+    padding: 20px;
+
+}
+.left-subcontainer{
+background-color: chartreuse;
+width: 20%;
+height:100%;
+}
+.right-subcontainer{
+    background-color: rgb(255, 0, 128);
+    width: 80%;
+height:100%;
 }
