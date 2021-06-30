@@ -38,3 +38,12 @@ height:100%;
     width: 80%;
 height:100%;
 }
+.footer-container{
+    display: flex;
+    background-color: black;
+    color: white;
+    margin: 20px;
+    padding: 30px 10px;
+    
+    
+}
