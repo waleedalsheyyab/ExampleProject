@@ -11,7 +11,7 @@
 }
 
 body {
-    background-image: url(./resources/party-background-bright-bokeh.jpg);
+    background-image: url(../resources/party-background-bright-bokeh.jpg);
 }
 .header-container{
     display: flexbox;
