@@ -174,12 +174,21 @@ text-align: center
     border-color: rgb(241, 18, 186);
 
         }
+.ppform{
+    background-color:rgb(241, 18, 186);
+           
+    width: 100%;
+    height: 100%;
+    padding: 50px;
+           
+        }
 .second-left-subcontainer{
     background-color: rgb(241, 18, 186);
     width: 50%;
     height:100%;
     border-radius: 0px;
     border-color: black;
+    text-align: center;
         }
 .second-right-subcontainer{
     background-color: rgb(206, 26, 167,0);
@@ -193,4 +202,12 @@ text-align: center
 .sizing{
     padding : 100px;
             
+ }
+
+ .npt {
+     width: 80%;
+     height: 50px;
+     border: none;
+     border-radius: 5px;
+     
  }
