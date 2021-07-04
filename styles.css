@@ -11,7 +11,7 @@
 }
 
 body {
-    background-image: url(/home/waleed/projects/ExampleProject/resources/party-background-bright-bokeh.jpg);
+    background-image: url(./resources/party-background-bright-bokeh.jpg);
 }
 .header-container{
     display: flexbox;
@@ -22,7 +22,7 @@ body {
     font-size: larger;
     position: sticky; 
     top : 0;
-    background-image: url(/home/waleed/projects/ExampleProject/resources/original.gif);
+    background-image: url(./resources/original.gif);
 
     /* opacity: 0.5; */
     /* margin: 20px; */
@@ -109,7 +109,7 @@ text-align: center
     display: flex;
     color: white;
     padding: 30px 10px;
-    background-image: url(/home/waleed/projects/ExampleProject/resources/original.gif);
+    background-image: url(./resources/original.gif);
   
     /* background-color: rgb(233, 165, 39); */
     /* margin: 20px; */
